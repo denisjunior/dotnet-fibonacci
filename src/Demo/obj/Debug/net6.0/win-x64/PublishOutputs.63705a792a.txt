@@ -1,0 +1,2 @@
+W:\FGES\microsoft_techologies\Demo\bin\Debug\net6.0\win-x64\publish\Demo.pdb
+W:\FGES\microsoft_techologies\Demo\bin\Debug\net6.0\win-x64\publish\Demo.exe

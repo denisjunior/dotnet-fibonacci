@@ -1,0 +1,13 @@
+W:\FGES\microsoft_techologies\Fibonacci\src\Fibonacci\bin\Debug\net6.0\Fibonacci.deps.json
+W:\FGES\microsoft_techologies\Fibonacci\src\Fibonacci\bin\Debug\net6.0\Fibonacci.dll
+W:\FGES\microsoft_techologies\Fibonacci\src\Fibonacci\bin\Debug\net6.0\ref\Fibonacci.dll
+W:\FGES\microsoft_techologies\Fibonacci\src\Fibonacci\bin\Debug\net6.0\Fibonacci.pdb
+W:\FGES\microsoft_techologies\Fibonacci\src\Fibonacci\obj\Debug\net6.0\Fibonacci.GlobalUsings.g.cs
+W:\FGES\microsoft_techologies\Fibonacci\src\Fibonacci\obj\Debug\net6.0\Fibonacci.csproj.AssemblyReference.cache
+W:\FGES\microsoft_techologies\Fibonacci\src\Fibonacci\obj\Debug\net6.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+W:\FGES\microsoft_techologies\Fibonacci\src\Fibonacci\obj\Debug\net6.0\Fibonacci.AssemblyInfoInputs.cache
+W:\FGES\microsoft_techologies\Fibonacci\src\Fibonacci\obj\Debug\net6.0\Fibonacci.AssemblyInfo.cs
+W:\FGES\microsoft_techologies\Fibonacci\src\Fibonacci\obj\Debug\net6.0\Fibonacci.csproj.CoreCompileInputs.cache
+W:\FGES\microsoft_techologies\Fibonacci\src\Fibonacci\obj\Debug\net6.0\Fibonacci.dll
+W:\FGES\microsoft_techologies\Fibonacci\src\Fibonacci\obj\Debug\net6.0\ref\Fibonacci.dll
+W:\FGES\microsoft_techologies\Fibonacci\src\Fibonacci\obj\Debug\net6.0\Fibonacci.pdb
