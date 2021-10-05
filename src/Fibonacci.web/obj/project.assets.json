@@ -2,44 +2,50 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "Fibonacci/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
+      "dAlmeida.Denis.Fibonacci/1.0.0": {
+        "type": "package",
         "compile": {
-          "bin/placeholder/Fibonacci.dll": {}
+          "lib/net6.0/Fibonacci.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Fibonacci.dll": {}
+          "lib/net6.0/Fibonacci.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Fibonacci/1.0.0": {
-      "type": "project",
-      "path": "../Fibonacci/Fibonacci.csproj",
-      "msbuildProject": "../Fibonacci/Fibonacci.csproj"
+    "dAlmeida.Denis.Fibonacci/1.0.0": {
+      "sha512": "69rdr+fBOzMKVIV+YsSHaBII+ao3hpbzafnxyhvvYFEW647rhFHEkWMuhj+y0OYKgRSfghIRFlvzNpK2o8fYOQ==",
+      "type": "package",
+      "path": "dalmeida.denis.fibonacci/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dalmeida.denis.fibonacci.1.0.0.nupkg.sha512",
+        "dalmeida.denis.fibonacci.nuspec",
+        "lib/net6.0/Fibonacci.dll"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Fibonacci >= 1.0.0"
+      "dAlmeida.Denis.Fibonacci >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Etiam\\.nuget\\packages\\": {}
+    "C:\\Users\\denis\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "W:\\FGES\\microsoft_techologies\\Fibonacci\\src\\Fibonacci.web\\Fibonacci.web.csproj",
+      "projectUniqueName": "D:\\FGES\\M2\\SEMESTRE1\\Microsoft\\Demo\\dotnet-fibonacci\\src\\Fibonacci.web\\Fibonacci.web.csproj",
       "projectName": "Fibonacci.web",
-      "projectPath": "W:\\FGES\\microsoft_techologies\\Fibonacci\\src\\Fibonacci.web\\Fibonacci.web.csproj",
-      "packagesPath": "C:\\Users\\Etiam\\.nuget\\packages\\",
-      "outputPath": "W:\\FGES\\microsoft_techologies\\Fibonacci\\src\\Fibonacci.web\\obj\\",
+      "projectPath": "D:\\FGES\\M2\\SEMESTRE1\\Microsoft\\Demo\\dotnet-fibonacci\\src\\Fibonacci.web\\Fibonacci.web.csproj",
+      "packagesPath": "C:\\Users\\denis\\.nuget\\packages\\",
+      "outputPath": "D:\\FGES\\M2\\SEMESTRE1\\Microsoft\\Demo\\dotnet-fibonacci\\src\\Fibonacci.web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Etiam\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\denis\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -50,11 +56,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "W:\\FGES\\microsoft_techologies\\Fibonacci\\src\\Fibonacci\\Fibonacci.csproj": {
-              "projectPath": "W:\\FGES\\microsoft_techologies\\Fibonacci\\src\\Fibonacci\\Fibonacci.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -66,6 +68,12 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
+        "dependencies": {
+          "dAlmeida.Denis.Fibonacci": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bcYUCTNvJL92VCShz39qMFaWgAgeg0dTsv5CzLYcw7nCtFWoacWuCIQDfCrekf42IlklHmbxVmBYodFkwMgMdQ==",
+  "dgSpecHash": "3WhNfgPhPkEHavxPBvkV9LebM99VT9BxlCPZVRiWvDbpBEdxPh+y4aJjLxvPsBVuuFRwar1fOv3qzAyVFt96SA==",
   "success": true,
-  "projectFilePath": "W:\\FGES\\microsoft_techologies\\Fibonacci\\src\\Fibonacci.web\\Fibonacci.web.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\FGES\\M2\\SEMESTRE1\\Microsoft\\Demo\\dotnet-fibonacci\\src\\Fibonacci.web\\Fibonacci.web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denis\\.nuget\\packages\\dalmeida.denis.fibonacci\\1.0.0\\dalmeida.denis.fibonacci.1.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

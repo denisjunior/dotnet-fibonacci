@@ -7,7 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Fibonacci\Fibonacci.csproj" />
+    <PackageReference Include="dAlmeida.Denis.Fibonacci" Version="1.0.0" />
   </ItemGroup>
+  
 
 </Project>
