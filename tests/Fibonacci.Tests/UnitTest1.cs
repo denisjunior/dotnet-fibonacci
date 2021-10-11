@@ -16,7 +16,7 @@ namespace Fibonacci.Tests
             var options = builder.Options; var fibonacciDataContext = new FibonacciDataContext(options); 
             await fibonacciDataContext.Database.EnsureCreatedAsync();
 
-            var result = await new Fibonacci.Compute(fibonacciDataContext).ExecuteAsync();
+            var result = await new Fibonacci.Compute(fibonacciDataContext).ExecuteAsync(new[] {"6"});
             Assert.Equal(1, result.Count);
             Assert.Equal(8, result[0]);
 
