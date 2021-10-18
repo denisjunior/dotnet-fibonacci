@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FGES\\M2\\SEMESTRE1\\Microsoft\\Demo\\dotnet-fibonacci\\src\\Fibonacci.web\\Fibonacci.web.csproj": {}
+    "E:\\FGES\\M2\\SEMESTRE1\\Microsoft\\Demo\\dotnet-fibonacci\\src\\Fibonacci.web\\Fibonacci.web.csproj": {}
   },
   "projects": {
-    "D:\\FGES\\M2\\SEMESTRE1\\Microsoft\\Demo\\dotnet-fibonacci\\src\\Fibonacci.web\\Fibonacci.web.csproj": {
+    "E:\\FGES\\M2\\SEMESTRE1\\Microsoft\\Demo\\dotnet-fibonacci\\src\\Fibonacci.web\\Fibonacci.web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FGES\\M2\\SEMESTRE1\\Microsoft\\Demo\\dotnet-fibonacci\\src\\Fibonacci.web\\Fibonacci.web.csproj",
+        "projectUniqueName": "E:\\FGES\\M2\\SEMESTRE1\\Microsoft\\Demo\\dotnet-fibonacci\\src\\Fibonacci.web\\Fibonacci.web.csproj",
         "projectName": "Fibonacci.web",
-        "projectPath": "D:\\FGES\\M2\\SEMESTRE1\\Microsoft\\Demo\\dotnet-fibonacci\\src\\Fibonacci.web\\Fibonacci.web.csproj",
+        "projectPath": "E:\\FGES\\M2\\SEMESTRE1\\Microsoft\\Demo\\dotnet-fibonacci\\src\\Fibonacci.web\\Fibonacci.web.csproj",
         "packagesPath": "C:\\Users\\denis\\.nuget\\packages\\",
-        "outputPath": "D:\\FGES\\M2\\SEMESTRE1\\Microsoft\\Demo\\dotnet-fibonacci\\src\\Fibonacci.web\\obj\\",
+        "outputPath": "E:\\FGES\\M2\\SEMESTRE1\\Microsoft\\Demo\\dotnet-fibonacci\\src\\Fibonacci.web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\denis\\AppData\\Roaming\\NuGet\\NuGet.Config"

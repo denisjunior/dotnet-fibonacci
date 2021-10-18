@@ -8375,11 +8375,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FGES\\M2\\SEMESTRE1\\Microsoft\\Demo\\dotnet-fibonacci\\tests\\Fibonacci.Tests\\Fibonacci.Tests.csproj",
+      "projectUniqueName": "E:\\FGES\\M2\\SEMESTRE1\\Microsoft\\Demo\\dotnet-fibonacci\\tests\\Fibonacci.Tests\\Fibonacci.Tests.csproj",
       "projectName": "Fibonacci.Tests",
-      "projectPath": "D:\\FGES\\M2\\SEMESTRE1\\Microsoft\\Demo\\dotnet-fibonacci\\tests\\Fibonacci.Tests\\Fibonacci.Tests.csproj",
+      "projectPath": "E:\\FGES\\M2\\SEMESTRE1\\Microsoft\\Demo\\dotnet-fibonacci\\tests\\Fibonacci.Tests\\Fibonacci.Tests.csproj",
       "packagesPath": "C:\\Users\\denis\\.nuget\\packages\\",
-      "outputPath": "D:\\FGES\\M2\\SEMESTRE1\\Microsoft\\Demo\\dotnet-fibonacci\\tests\\Fibonacci.Tests\\obj\\",
+      "outputPath": "E:\\FGES\\M2\\SEMESTRE1\\Microsoft\\Demo\\dotnet-fibonacci\\tests\\Fibonacci.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\denis\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -8394,8 +8394,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\FGES\\M2\\SEMESTRE1\\Microsoft\\Demo\\dotnet-fibonacci\\src\\Fibonacci\\Fibonacci.csproj": {
-              "projectPath": "D:\\FGES\\M2\\SEMESTRE1\\Microsoft\\Demo\\dotnet-fibonacci\\src\\Fibonacci\\Fibonacci.csproj"
+            "E:\\FGES\\M2\\SEMESTRE1\\Microsoft\\Demo\\dotnet-fibonacci\\src\\Fibonacci\\Fibonacci.csproj": {
+              "projectPath": "E:\\FGES\\M2\\SEMESTRE1\\Microsoft\\Demo\\dotnet-fibonacci\\src\\Fibonacci\\Fibonacci.csproj"
             }
           }
         }

@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Fibonacci.Tests
-build_property.ProjectDir = D:\FGES\M2\SEMESTRE1\Microsoft\Demo\dotnet-fibonacci\tests\Fibonacci.Tests\
+build_property.ProjectDir = E:\FGES\M2\SEMESTRE1\Microsoft\Demo\dotnet-fibonacci\tests\Fibonacci.Tests\
