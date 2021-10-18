@@ -2,9 +2,11 @@
 using System.Diagnostics;
 using System.IO;
 using Fibonacci;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Options;
 
 var environmentName = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
 IConfiguration configuration = new ConfigurationBuilder()
@@ -17,8 +19,10 @@ var applicationSection = configuration.GetSection("Application");
 var applicationConfig = applicationSection.Get<ApplicationConfig>();
 
 
-var services = new ServiceCollection();  
-services.AddTransient<FibonacciDataContext>();  
+var services = new ServiceCollection();
+services.AddDbContext<FibonacciDataContext>(options =>
+    options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
+
 services.AddTransient<Compute>();  
 services.AddLogging(configure => configure.AddConsole());
 
