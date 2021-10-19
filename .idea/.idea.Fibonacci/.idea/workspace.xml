@@ -10,6 +10,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9954b827-4835-4b2d-b6e6-82aff4a0e95b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Fibonacci/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fibonacci/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fibonacci.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Fibonacci.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,6 +140,8 @@
       <workItem from="1633341307705" duration="4012000" />
       <workItem from="1633953513801" duration="9390000" />
       <workItem from="1634558323693" duration="11087000" />
+      <workItem from="1634634107289" duration="357000" />
+      <workItem from="1634635971760" duration="714000" />
     </task>
     <task id="LOCAL-00001" summary="action with slqserver">
       <created>1633962898977</created>
@@ -168,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634569295688</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update add Webapi.csproj">
+      <created>1634634228462</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1634634228462</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +205,7 @@
     <MESSAGE value="update for unitest" />
     <MESSAGE value="update logger and sercive collections" />
     <MESSAGE value="add Webapi" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Webapi" />
+    <MESSAGE value="update add Webapi.csproj" />
+    <option name="LAST_COMMIT_MESSAGE" value="update add Webapi.csproj" />
   </component>
 </project>
